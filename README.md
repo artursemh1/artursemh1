@@ -1,4 +1,14 @@
-### Hi there 👋
+<h1>Hello Everyone, I'm Artur!</h1>
+<h3>HTML5, CSS3 and Javascript student<h3>
+  
+  <p>🌱 Focusing and giving my best to learn and pratice...<p>
+  
+  <p>📫 How to reach me:
+    My email: artur_rod@icloud.com <br>
+    <a href="linkedin.com/in/dev-artur-rodrigues/">My LinkedIn</a>
+  </p>
+  
+<h3>See ya 😄</h3>
 
 <!--
 **artursemh1/artursemh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
