@@ -2,8 +2,8 @@
 <h3>HTML5, CSS3 and Javascript student<h3>
   
   <p>🌱 Focusing and giving my best to learn and pratice...<p>
-  
-  <ul>📫 How to reach me:
+  <p>📫 How to reach me:</p>
+  <ul>
     <li><a href="mail to:artur_rod@icloud.com">My email</a></li>
     <li><a href="linkedin.com/in/dev-artur-rodrigues/">My LinkedIn</a></li>
   </ul>
