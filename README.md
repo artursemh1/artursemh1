@@ -3,8 +3,8 @@
   
   <p>🌱 Focusing and giving my best to learn and pratice...<p>
   
-  <p>📫 How to reach me:
-    My email: artur_rod@icloud.com <br>
+  <p>📫 How to reach me:<br>
+    <a href="mail to:artur_rod@icloud.com">My email</a> <br>
     <a href="linkedin.com/in/dev-artur-rodrigues/">My LinkedIn</a>
   </p>
   
